@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guldstjärnor</string>
+    <string name="welcome">Välkommen!</string>
+    <string name="first_info">Välj två tal. Ett för antalet punkter och ett för antalet steg att räkna för varje streck.</string>
+    <string name="render_button">Rendera</string>
+    <string name="skips_hint">Antal hopp</string>
+    <string name="dots_hint">Antal punkter</string>
+    <string name="more_info_button">Mer info</string>
+    <string name="details_success">Grattis! Du gjorde en %1$d-uddig stjärna med ett penseldrag!</string>
+    <string name="details_fail">Det går inte att rita en %1$d-uddig stjärna i ett penseldrag.</string>
+    <string name="details_is_prime">Eftersom %1$d är ett primtal går det att välja vilket nummer som helst och ändå få en %1$d-uddig stjärna.</string>
+    <string name="details_info">Det går att rita %2$d olika %1$d-uddiga stjärnor i ett penseldrag. Spegelvända stjärnor räknas inte. Till exempel är både 2 och 3 hopp för att skapa en 5-uddig stjärna samma lösning.</string>
+    <string name="details_help">Följande hopp kan användas för att åstadkomma en %1$d-uddig stjärna:</string>
+    <string name="details_fair">Med %1$d punkter tillgängliga och hopp på %2$d punkter blir det en %3$d-uddig stjärna.</string>
+    <string name="help">Hjälp</string>
+    <string name="help_details">Den här minimala appen renderar N-uddiga stjärnor (om det går) med bara raka linjer utan att lämna pappret med penseln. Börja i en punkt och dra sedan linjerna moturs i lika långa hopp till varje ny punkt till dess att du är tillbaka på punkt 1. Det klassiska exemplet är den 5-uddiga guldstjärnan med hopp om 2 punkter. När du väl renderat en stjärna kan du välja att få mer detaljer om vilka andra stjärnor som skulle kunna ritas med samma antal punkter. För mer matematiska detaljer, sök på SGD (Största Gemensamma Delare).</string>
+</resources>
